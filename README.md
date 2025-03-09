@@ -1,6 +1,8 @@
 # aicomputer
 
-<img src="logo.png" width="400">
+<p align="center">
+  <img src="logo.png" width="400">
+</p>
 
 This is a guide on how you can build a low-cost (<$1,300) AI computer by yourself to run your AI flows locally.
 
