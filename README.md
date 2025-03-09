@@ -1,7 +1,7 @@
 # aicomputer
 
 <p align="center">
-  <img src="logo.png" width="400">
+  <img src="final-build.jpg" width="400">
 </p>
 
 This is a guide on how you can build a low-cost (<$1,300) AI computer by yourself to run your AI flows locally.
@@ -46,8 +46,7 @@ _Note: Links are to German retailers but parts are available worldwide_
       <img src="exhaust-fan-example.jpg" width="400" alt="Exhaust fan installation">
     </p>
 10. Install GPU
-11. Close case, should be looking like:
-    <img src="final-build.jpg" width="300">
+11. Close case
 
 ## Installation
 
@@ -60,9 +59,13 @@ _Note: Links are to German retailers but parts are available worldwide_
 4. Insert USB into motherboard port
 5. Power on (PSU switch to 'I')
 6. Enter BIOS/boot menu:
-   <img src="monitor.jpg" width="400">
+    <p align="center">
+      <img src="monitor.jpg" width="400" alt="Monitor">
+    </p>
 7. Select USB boot device:
-   <img src="monitor2.jpg" width="400">
+   <p align="center">
+      <img src="monitor-2.jpg" width="400" alt="Monitor-2">
+    </p>
 8. Complete Ubuntu installation with SSH server enabled
 
 ## Remote Access Setup
