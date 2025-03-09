@@ -78,8 +78,8 @@ ssh username@192.168.2.x  # Replace with your machine's IP
 
 ## Usage
 
-Ready to use with GPU-accelerated models from [Ollama](https://ollama.com) and other AI frameworks.
+Ready to use with GPU accelerated models from [Ollama](https://ollama.com) and other AI frameworks.
 
 ## Need Help?
 
-Reach out to me on X [@yachty66] for build assistance or questions!
+Reach out to me on [X](https://x.com/yachty66) for build assistance or questions!
