@@ -42,7 +42,9 @@ _Note: Links are to German retailers but parts are available worldwide_
 7. Connect front panel cables
 8. Install power supply
 9. Install exhaust fan:
-   <img src="exhaust-fan-example.jpg" width="300">
+   <p align="center">
+      <img src="exhaust-fan-example.jpg" width="400" alt="Exhaust fan installation">
+    </p>
 10. Install GPU
 11. Close case, should be looking like:
     <img src="final-build.jpg" width="300">
