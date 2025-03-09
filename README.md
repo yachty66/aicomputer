@@ -4,7 +4,7 @@
   <img src="final-build.jpg" width="400">
 </p>
 
-This is a guide on how you can build a low-cost (<$1,300) AI computer by yourself to run your AI flows locally.
+This is a guide on how you can build a low-cost (<1,300€) AI computer by yourself to run your AI flows locally.
 
 Ideal for students on a low budget. The build can, of course, also be expanded and constructed in a way to offer the best performance for enterprises, for example.
 
