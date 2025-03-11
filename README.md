@@ -12,7 +12,7 @@ Ideal for students on a low budget. The build can, of course, also be expanded a
 
 - [Parts List](#parts-list)
 - [Assembly Guide](#assembly-guide)
-- [Installation](#ubuntu-installation)
+- [Installation](#installation)
 - [Remote Access Setup](#remote-access-setup)
 
 ## Parts List
