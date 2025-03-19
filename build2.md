@@ -7,3 +7,5 @@
 - CPU Cooler: Noctua NH-L9i-17xx chromax.black | CPU-Kühler
 - Case Fans: 2x ARCTIC P12 PWM
 - Case: Need to make by myself
+
+
