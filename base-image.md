@@ -19,4 +19,4 @@ Application	Port	Type
 Jupyter	8888	HTTP
 SSH	22	TCP
 
-with the GUI enabled additionally
+with the GUI enabled additionally 

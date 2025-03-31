@@ -76,6 +76,16 @@ After installation, you can SSH from any device on your network:
 ssh username@192.168.2.x  # Replace with your machine's IP
 ```
 
+## How to get the IP
+
+1. Connect the monitor along with the mouse and keyboard.
+
+2. Input the Wi-Fi password via the GUI and connect to Wi-Fi.
+
+3. Run `ip a` in the terminal and find the IP (it will look like 192.168.x.x or 10.0.x.x).
+
+4. From my end, run `ssh username@thisip`
+
 ## Usage
 
 Ready to use with GPU accelerated models from [Ollama](https://ollama.com) and other AI frameworks.
