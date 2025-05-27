@@ -18,6 +18,4 @@
 - PSU: CORSAIR SF750 (2024) Fully Modular Low Noise 80 Plus Platinum ATX Power Supply - ATX 3.1 Compatible - PCIe 5.1 Capable - SFX to ATX Mount Included - Black - 170
 - CPU Cooler: Noctua NH-L9i-17xx chromax.black | CPU-Kühler - 60
 - Case Fans: 2x ARCTIC P12 PWM - 20 
-- Case: Lian Li A4-H2O X4 - 160 
-
-
+- Case: Lian Li A4-H2O X4 - 160
