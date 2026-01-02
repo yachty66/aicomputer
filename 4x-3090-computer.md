@@ -41,3 +41,7 @@
     - 12.09€
 
 Total: €4,405.39    
+
+<p align="center">
+  <img src="4-gpus.jpeg" width="400">
+</p>
