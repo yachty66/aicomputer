@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="4-gpus.jpeg" width="400">
+</p>
+
 ## parts with links and price
 
 - GPU: 4 x ASUS TURBO RTX 3090 (used)
@@ -40,8 +44,4 @@
     - https://www.amazon.de/dp/B0816RCFM3?ref=ppx_yo2ov_dt_b_fed_asin_title
     - 12.09€
 
-Total: €4,405.39    
-
-<p align="center">
-  <img src="4-gpus.jpeg" width="400">
-</p>
+Total: €4,405.39
